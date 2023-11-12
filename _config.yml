@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Projects
+    - name: Research
+    - name: Blog
 
 footer:
   show_powered_by: false
@@ -27,6 +27,11 @@ footer:
       link: http://linkedin.com/in/bauerdo
     - name: GitHub
       link: http://github.com/dkbauer
+    - name: Scholar
+      link: https://scholar.google.com/citations?user=VZThMh0AAAAJ&hl=en
+    - name: ResearchGate
+      link: https://www.researchgate.net/profile/Dominik-Bauer-8
+
 
 
 # Build settings

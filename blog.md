@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Projects
-slug: /projects
+title: Blog
+slug: /blog
 ---
 
 Coming soon!

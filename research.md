@@ -1,7 +1,8 @@
 ---
 layout: work
-title: Work
-slug: /work
+title: Research
+slug: /research
+
 ---
 Coming soon!
 <br />
